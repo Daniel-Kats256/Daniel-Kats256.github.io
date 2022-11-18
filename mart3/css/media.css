@@ -1,0 +1,62 @@
+@media screen and (max-width: 800px)  {
+  .top{
+      max-width: 800px;
+      font-size: 15px;
+  }
+  .top .icon{
+      width: 10px;
+      height: 13px;
+  }
+  .logo img{
+      height: 40px;
+      width: 40px;
+  }
+  .word h1, .word p{
+      font-size: 45px;
+  }
+  .text .h2{
+      font-size: 15px;
+  }
+  footer{
+      margin-top: 20px;
+  }
+  .navi nav{
+      flex-direction: column;
+      font-size: 9px;
+      display: flex;
+      align-items: flex-start;
+  }
+  .navi{
+      width: 500px;
+      height: 150px;
+      z-index: 1;
+  }
+  .about1{
+      width: 85px;
+  }
+  .boxes > div{
+      font-size: 10px;
+  }
+  .advert > div:nth-child(1) {
+      font-size: 11px;
+  }
+  .top1{
+      font-size: 15px;
+  }
+  .bgd .content{
+      font-size: 10px;
+  }
+  .icon{
+      width: 15px;
+  }
+  .social{
+      padding: 10px;
+      height: 15px;
+  }
+  .info p{
+      padding: 0px;
+  }
+  .logo1{
+      width: 25%;
+  }
+}
